@@ -115,7 +115,7 @@ marquee{
     height: 50%;
     width: 100%;
     text-align: center;
-    background: linear-gradient(to right, rgba(76, 160, 7, 0.3), rgb(122, 141, 252));
+    background: linear-gradient(to right, rgba(135, 199, 76, 0.3), rgba(66, 173, 223, 0.4));
     padding: 30px;
     display: flex;
     border-radius: 5px;
@@ -134,10 +134,10 @@ marquee{
 #academic-part p small{
     color: rgb(158, 49, 6);
 }
-footer{
+#footer-part{
     margin: 0px;
     text-align: center;
-    background-color: rgba(202, 224, 2, 60%);
+    background: linear-gradient(to right,rgba(127, 202, 221, 0.3), rgba(209, 231, 8, 0.4));
     padding: 10px;
     display: grid;
     border-radius: 2px;
