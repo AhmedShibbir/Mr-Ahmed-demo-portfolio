@@ -1,0 +1,48 @@
+#main-div{
+    margin: flex;
+}
+#nav-bar{
+    margin: 0px;
+    background: linear-gradient(to right,rgb(245, 242, 60),rgb(241, 110, 34)); 
+    padding: none; 
+    text-align: flex; 
+    display: inline-flex; 
+    width: 100%;
+    height: 10%;
+    border-style: outset;
+    border-color: rgb(76, 109, 26);
+    border-radius: 5px;
+}
+#greetings{
+    height: 100%;
+    width: 50%;
+    font-family: 'Otomanopee One', sans-serif;
+    color: rgbrgb(12, 11, 11);
+    font-size: 16px;
+    text-align: center;
+    margin-right: 10px;
+}
+marquee{
+    direction :ltr;
+}
+#nav-links{
+    margin: 0px;
+    padding: 25px;
+    align-items: center;
+}
+.nav-options{
+    padding: 10px;
+    background: linear-gradient(to right, rgb(182, 90, 15), rgb(202, 224, 2));
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+    
+.nav-options a{
+    color: rgb(12, 11, 11);
+    font-family: 'Otomanopee One', sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+}
+
