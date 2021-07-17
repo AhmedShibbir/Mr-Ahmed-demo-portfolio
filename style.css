@@ -48,6 +48,8 @@ marquee{
     border: rgb(214, 214, 212) solid 2px;
     box-shadow: 5px 7px rgb(155, 153, 25);
     text-shadow: 1px 1px whitesmoke;
+    text-align: center;
+    justify-content: center;
 }
     
 .nav-options a{
